@@ -1,0 +1,14 @@
+/.project
+.idea
+*.iml
+.settings
+.project
+.classpath
+
+**/node_modules
+**/node
+**/*.iml
+**/target
+**/npm-debug.log
+**/ui/test-resources/libs
+
